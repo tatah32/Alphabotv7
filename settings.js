@@ -15,7 +15,7 @@ global.APIKeys = {
 global.autoread = false // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = true //status online (online)
+global.available = false //status online (online)
 
 // Other
 global.botname = "𝑄𝑢𝑒𝑒𝑛"
