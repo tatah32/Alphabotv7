@@ -20,8 +20,8 @@ global.available = true //status online (online)
 // Other
 global.botname = "𝑄𝑢𝑒𝑒𝑛"
 global.ownername= "Tata"
-global.myweb ="wa.me/https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
+global.myweb ="https://api-alphabot.herokuapp.com/"
+global.youtube = "https://youtube.com"
 global.github = "https://zeeoneofc.github.io/"
 global.ownernomer = "6289668014332"
 global.ownernomerr = "+6289668014332"
